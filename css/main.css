@@ -770,7 +770,7 @@ a {
   width: 68px;
   height: 68px;
   background-color: var(--orange-color);
-  background-image: url("/img/mail.png");
+  background-image: url("img/mail.png");
   background-position: center;
   background-size: 28px 22px;
   background-repeat: no-repeat;
@@ -787,7 +787,7 @@ a {
   width: 68px;
   height: 68px;
   background-color: var(--orange-color);
-  background-image: url("/img/phone.png");
+  background-image: url("img/phone.png");
   background-position: center;
   background-size: 28px 22px;
   background-repeat: no-repeat;
@@ -827,7 +827,7 @@ a {
   margin-top: -60px;
   padding-top: 260px;
   padding-bottom: 220px;
-  background-image: url("/img/hero-bg.jpg");
+  background-image: url("img/hero-bg.jpg");
   background-position: left top;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1427,7 +1427,7 @@ a {
   -ms-flex-pack: center;
   justify-content: center;
   height: 800px;
-  background-image: url("/img/progress-bg.jpg");
+  background-image: url("img/progress-bg.jpg");
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2193,7 +2193,7 @@ a {
 }
 .column-price__item {
   padding-left: 31px;
-  background-image: url("/img/check-price.png");
+  background-image: url("img/check-price.png");
   background-position: left top;
   background-size: 19px 19px;
   background-repeat: no-repeat;
@@ -2426,7 +2426,7 @@ a {
   width: 68px;
   height: 68px;
   background-color: var(--orange-color);
-  background-image: url("/img/map.png");
+  background-image: url("img/map.png");
   background-position: center;
   background-size: 22px 32px;
   background-repeat: no-repeat;
